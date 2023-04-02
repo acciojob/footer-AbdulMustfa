@@ -8,6 +8,11 @@ footer {
   width: 90%;
   margin: auto;
 }
+.media-icons{
+	display:flex;
+	flex-wrap:wrap;
+	gap:10px;
+}
 
 .row {
   display: flex;
